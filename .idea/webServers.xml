@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2b86637f-fcd3-41f0-a9c3-897a9ba689c2" name="Test" url="http://coca.ftp.ukraine.com.ua">
+        <fileTransfer host="coca.ftp.ukraine.com.ua" port="21" password="dfd3dfdfdf9ddf9edf99dfd2dfd2df93" username="coca_hakuna">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
